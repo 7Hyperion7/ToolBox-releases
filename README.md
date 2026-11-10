@@ -1,2 +1,3 @@
 # ToolBox-releases
-# Don't download at the moment it gets falsely flagged as malware
+# Only download portable.
+# At the moment the normal variant gets falsely flagged as malware!
